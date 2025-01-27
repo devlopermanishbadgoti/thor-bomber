@@ -22,13 +22,7 @@
     cd thor-bomber
     ```
 
-3. Install the necessary dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the tool:
+3. Run the tool:
 
     ```bash
     python thor-bomber.py
